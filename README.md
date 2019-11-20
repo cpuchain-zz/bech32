@@ -1,6 +1,6 @@
 # Bech32 adoption
 
-![Discord Shield](https://discordapp.com/api/guilds/595842531044884500/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/595842531044884500/widget.png?style=shield)](https://discord.io/cpuchain)
 
 Bech32 is a new Bitcoin / CPUchain address format specified by [BIP 0173](https://en.bitcoin.it/wiki/BIP_0173). This page tracks the adoption of Bech32.
 
