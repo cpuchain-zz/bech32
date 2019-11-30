@@ -39,7 +39,7 @@ Following is the list of open-source projects that is used for CPUchain project.
 | Name | Source Code | Status |
 |------|-------------|--------|
 | [Iquidus Explorer](https://explorer.cpuchain.org) | [https://github.com/iquidus/explorer](https://github.com/iquidus/explorer) | Yes |
-| [Web Explorer](https://explorer2.cpuchain.org) | [https://github.com/cpuchain/web-explorer](https://github.com/cpuchain/web-explorer) | No |
+| [Web Explorer](https://explorer2.cpuchain.org) | [https://github.com/cpuchain/web-explorer](https://github.com/cpuchain/web-explorer) | Yes |
 
 ## Miner
 
@@ -57,4 +57,4 @@ Following is the list of open-source projects that is used for CPUchain project.
 
 | Name | Source Code | Status |
 |------|-------------|--------|
-| [ApiServer](https://api.cpuchain.org) | [https://github.com/cpuchain/ApiServer](https://github.com/cpuchain/ApiServer) | No (balance and unspent is broken) |
+| [ApiServer](https://api.cpuchain.org) | [https://github.com/cpuchain/ApiServer](https://github.com/cpuchain/ApiServer) | Yes |
